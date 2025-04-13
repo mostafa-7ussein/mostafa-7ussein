@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi there! I'm Mostafa Hussein, a passionate **DevOps Engineer** and **Backend Developer** with a strong background in cloud technologies, CI/CD pipelines, automation, and software development. I recently graduated with a Bachelor's degree in Computer Science, majoring in Information Systems, with honors. I'm currently focusing on delivering high-quality, scalable solutions using tools like **Docker**, **Kubernetes**, **Ansible**, and **Jenkins**.
+Hi there! I'm Mostafa Hussein, a passionate **DevOps Engineer at National Telecommunications Regulatory Authority (NTRA) of Egypt** and **Backend Developer** with a strong background in cloud technologies, CI/CD pipelines, automation, and software development. I recently graduated with a Bachelor's degree in Computer Science, majoring in Information Systems, with honors. I'm currently focusing on delivering high-quality, scalable solutions using tools like **Docker**, **Kubernetes**, **Ansible**, and **Jenkins**.
 
 ### My Expertise:
 
